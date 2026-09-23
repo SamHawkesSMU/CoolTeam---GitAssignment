@@ -1,4 +1,12 @@
 #A00499403
 public double division(double a, double b) {
     return a / b;
+=======
+#A00454272-Mohammad
+public int mod (int a, int b) {
+    return a % b;
+=======
+#SamHawkes-alt account
+public int min(int a, int b) {
+    return Math.min(a, b);
 }
