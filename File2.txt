@@ -1,0 +1,4 @@
+#SamHawkes-alt account
+public int min(int a, int b) {
+    return Math.min(a, b);
+}
