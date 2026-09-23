@@ -5,4 +5,8 @@ public int max(int a, int b) {
 #A00454272-Mohammad
 public double avg (int a, int b) {
     return Math.avg(a, b); 
+=======
+#SamHawkes-alt account
+public double power(double a, double b) {
+    return Math.pow(a, b);
 }
